@@ -1,0 +1,16 @@
+{
+  "name": "pdf-descriptor",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pdf2pic": "^3.1.1",
+    "tesseract.js": "^5.0.5"
+  }
+}
